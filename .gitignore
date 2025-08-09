@@ -116,6 +116,10 @@ dmypy.json
 # data directories
 /data/tlc_data
 /data/tute_data
+/data/fhv
+/data/fhvhv
+/data/green
+/data/yellow
 
 .DS_Store
 .vscode/settings.json
